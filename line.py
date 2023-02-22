@@ -12,6 +12,9 @@ from linebot.models import (
 
 
 
+
+
+
 app = Flask(__name__)
 
 line_bot_api = LineBotApi('94dDTFXyuylU7Eb9+0JEZJ8vGoX+dVnMRQwiFGsvH3QcYHg90FCj9+W5vLqqD9iFvD83Nd2nmqHrf9qCQX2vK8Nd3KrxlOi9Qy1sBjq9QgXTwkbBTJB0Xur+XyjvaBgvDtqGDccAV90/hZMXw34/hgdB04t89/1O/w1cDnyilFU=')
